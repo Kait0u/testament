@@ -35,8 +35,8 @@ kotlin {
 }
 
 gradlePlugin {
-	website = "https://github.com/kaitoudev/testament"
-	vcsUrl = "https://github.com/kaitoudev/testament.git"
+	website = "https://github.com/Kait0u/testament"
+	vcsUrl = "https://github.com/Kait0u/testament.git"
 	plugins {
 		create("testament") {
 			id = "pl.kaitoudev.testament"
